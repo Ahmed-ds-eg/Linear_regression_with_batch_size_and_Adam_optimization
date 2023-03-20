@@ -8,3 +8,7 @@ tools used :
 * pandas 
 * matplotlib
 * sklearn
+* time 
+using Adam optimizer with both adaptive batch size and gradient thershoulding model could supress the built in model in terms of r2 score 
+* model score in test data   R2 score = 0.9905
+* sklearn model in same test data  R2 score = 0.9818

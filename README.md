@@ -4,7 +4,7 @@ This was numerical optimization couse Practicale exam in ITI
 Here is Adam equation for some illustation
 ![image](https://user-images.githubusercontent.com/81334079/226472631-ded2f361-89ab-4e2a-b7b2-b0adaaf6871f.png)
 tools used :
-numpy 
-pandas 
-matplotlib
-sklearn 
+* numpy 
+* pandas 
+* matplotlib
+* sklearn
